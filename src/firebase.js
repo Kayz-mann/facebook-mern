@@ -14,14 +14,14 @@ import firebase from "firebase"
 // };
 
 const firebaseConfig = {
-  apiKey: "",
-  authDomain: "",
-  databaseURL: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: "",
-  measurementId: ""
+  apiKey: "AIzaSyC3jZ2D41D4xA-5MtgNpJYBGh4vcFjjFGc",
+  authDomain: "facebook-messenger-clone-f93a1.firebaseapp.com",
+  databaseURL: "https://facebook-messenger-clone-f93a1.firebaseio.com",
+  projectId: "facebook-messenger-clone-f93a1",
+  storageBucket: "facebook-messenger-clone-f93a1.appspot.com",
+  messagingSenderId: "1057114619331",
+  appId: "1:1057114619331:web:85de927bd86ee3962c5176",
+  measurementId: "G-RBS4QMB9BB"
 };
 
 
