@@ -1,0 +1,60 @@
+
+  
+  
+  .App {
+    text-align: center;
+    width: 100%;
+    font-size: 10px;
+  }
+
+  .App > img {
+      height: 58px;
+      margin-top: 10px;
+  }
+  
+  .app__form {
+    padding: 20px;
+    position: fixed;
+    bottom: 0px;
+    z-index: 1;
+    background-color: #e9e9eb;
+    width: 100%;
+    margin: 0px;
+    font-size: 10px;
+    width: 20%;
+  }
+  
+  .app__formControl {
+    display: flex !important;
+    flex-direction: row !important;
+    
+  }
+  
+  .app__input {
+    flex: 1;
+  }
+  /* appicnbttn flex o takes up minimuum amount of space and figures out a good placement */
+  .app__iconbutton {
+    flex: 0 !important;
+    margin: 10px !important;
+  }
+  
+  .emoji-display {
+    float: left;
+    left: 0;
+    display: flex;
+  }
+  
+  .smile {
+    float: left;
+    left: 0;
+    display: flex;
+    z-index: 3;
+  }
+  
+  
+  .MuiTypography-h5 {
+    font-size: 10px !important;
+   
+  }
+  
